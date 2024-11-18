@@ -1,8 +1,8 @@
 Frame 1:
-[Frame 1](DynamicFrame.jpg)
+[Frame 1](DynamicFrame-01.jpg)
 
 Frame 2:
-[Frame 2](StaticFrame.jpg)
+[Frame 2](StaticFrame-02.jpg)
 
 Frame 3:
-[Frame 3](Logo.jpg)
+[Frame 3](Logo-03.jpg)
