@@ -16,3 +16,5 @@ VIPs
 Rexxy_Rocker
 shadowblade0
 Starlight_Lexi
+Golden Berg
+int3rstella
