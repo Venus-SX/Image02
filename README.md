@@ -15,3 +15,6 @@ Frame 5:
 
 Frame 6:
 [Frame 6](Elysium_whitelist.txt)
+
+Frame 7:
+[Frame 7](  )
