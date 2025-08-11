@@ -17,4 +17,4 @@ Frame 6:
 [Frame 6](Elysium_whitelist.txt)
 
 Frame 7:
-[Frame 7](  )
+[Frame 7](Subscribe-07.jpg)
