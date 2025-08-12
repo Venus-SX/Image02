@@ -26,7 +26,10 @@ Frame 9:
 [Frame 9](EOL-Flower.jpg)
 
 Frame 10:
-[Frame 10](Elysium_whitelist.txt)
+[Frame 10](Linktree.jpg)
 
 Frame 11:
-[Frame 11](captions.csv)
+[Frame 11](Elysium_whitelist.txt)
+
+Frame 12:
+[Frame 12](captions.csv)
