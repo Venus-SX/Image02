@@ -26,7 +26,7 @@ Frame 9:
 [Frame 9](EOL-Flower.jpg)
 
 Frame 10:
-[Frame 10](Linktree.png)
+[Frame 10](Linktree.jng)
 
 Frame 11:
 [Frame 11](Elysium_whitelist.txt)
